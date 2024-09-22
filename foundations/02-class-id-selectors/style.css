@@ -4,6 +4,10 @@
 
 }
 
+.odd.size {
+    font-size: 36px;
+}
+
 #second {
     color: blue;
     font-size: 36px;
